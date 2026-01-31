@@ -1,0 +1,10 @@
+﻿[2026-01-23 02:39:20] [INFO] Log file: G:\My Drive\GIT\Overseerr-Bulk-User-Modify\Overseerr-Bulk-User-Modify\Overseerr_BulkUserEdit_v0.08_20260123_023919.log
+[2026-01-23 02:39:20] [INFO] CSV output: G:\My Drive\GIT\Overseerr-Bulk-User-Modify\Overseerr-Bulk-User-Modify\Overseerr_BulkUserEdit_v0.08_20260123_023919.csv
+[2026-01-23 02:39:22] [INFO] Verbose mode: ON
+[2026-01-23 02:39:55] [WARN] TEST MODE enabled: no changes will be sent to Overseerr.
+[2026-01-23 02:40:00] [INFO] Select notification types to enable:
+[2026-01-23 02:41:16] [INFO] Notification bitmask resolved to: 224
+[2026-01-23 02:41:25] [INFO] Fetching users...
+[2026-01-23 02:41:26] [DEBUG] HTTP GET http://192.168.1.20/api/v1/user
+[2026-01-23 02:41:26] [ERROR] HTTP failed (Status: 0) - Cannot send a content-body with this verb-type.
+[2026-01-23 02:41:26] [ERROR] Fatal error: HTTP failed (Status: 0) - Cannot send a content-body with this verb-type.
